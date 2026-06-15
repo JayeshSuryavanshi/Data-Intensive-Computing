@@ -1,0 +1,26 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data files (datasets are not committed)
+*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
